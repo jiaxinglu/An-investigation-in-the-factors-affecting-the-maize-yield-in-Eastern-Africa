@@ -1,0 +1,870 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1961,1961,hg/ha,9596,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1962,1962,hg/ha,10322,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1963,1963,hg/ha,9081,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1964,1964,hg/ha,10158,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1965,1965,hg/ha,10084,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1966,1966,hg/ha,9986,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1967,1967,hg/ha,10368,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1968,1968,hg/ha,10714,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1969,1969,hg/ha,11161,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1970,1970,hg/ha,11607,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1971,1971,hg/ha,11863,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1972,1972,hg/ha,10676,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1973,1973,hg/ha,11507,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1974,1974,hg/ha,9875,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1975,1975,hg/ha,11428,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1976,1976,hg/ha,11328,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1977,1977,hg/ha,11475,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1978,1978,hg/ha,13333,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1979,1979,hg/ha,11283,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1980,1980,hg/ha,10769,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1981,1981,hg/ha,11231,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1982,1982,hg/ha,11077,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1983,1983,hg/ha,11385,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1984,1984,hg/ha,10859,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1985,1985,hg/ha,12077,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1986,1986,hg/ha,12424,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1987,1987,hg/ha,12654,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1988,1988,hg/ha,12836,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1989,1989,hg/ha,13645,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1990,1990,hg/ha,13540,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1991,1991,hg/ha,13887,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1992,1992,hg/ha,14218,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1993,1993,hg/ha,14342,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1994,1994,hg/ha,12276,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1995,1995,hg/ha,12752,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1996,1996,hg/ha,13133,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1997,1997,hg/ha,12608,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1998,1998,hg/ha,11463,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,1999,1999,hg/ha,11192,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,2000,2000,hg/ha,10521,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,2001,2001,hg/ha,10817,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,2002,2002,hg/ha,10931,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,2003,2003,hg/ha,10670,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,2004,2004,hg/ha,10807,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,2005,2005,hg/ha,10833,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,2006,2006,hg/ha,10159,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,2007,2007,hg/ha,10168,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,2008,2008,hg/ha,10041,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,2009,2009,hg/ha,10032,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,2010,2010,hg/ha,10584,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,2011,2011,hg/ha,11093,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,2012,2012,hg/ha,11763,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,2013,2013,hg/ha,13218,Fc,Calculated data
+QC,Crops,29,Burundi,5419,Yield,56,Maize,2014,2014,hg/ha,13145,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1961,1961,hg/ha,10455,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1962,1962,hg/ha,10952,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1963,1963,hg/ha,10222,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1964,1964,hg/ha,10400,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1965,1965,hg/ha,10714,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1966,1966,hg/ha,11000,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1967,1967,hg/ha,10938,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1968,1968,hg/ha,10938,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1969,1969,hg/ha,10606,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1970,1970,hg/ha,10606,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1971,1971,hg/ha,10606,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1972,1972,hg/ha,10588,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1973,1973,hg/ha,10571,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1974,1974,hg/ha,10556,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1975,1975,hg/ha,10526,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1976,1976,hg/ha,10500,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1977,1977,hg/ha,10698,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1978,1978,hg/ha,10000,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1979,1979,hg/ha,10000,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1980,1980,hg/ha,10000,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1981,1981,hg/ha,10000,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1982,1982,hg/ha,10000,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1983,1983,hg/ha,12500,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1984,1984,hg/ha,17250,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1985,1985,hg/ha,14792,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1986,1986,hg/ha,16625,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1987,1987,hg/ha,24025,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1988,1988,hg/ha,24022,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1989,1989,hg/ha,24035,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1990,1990,hg/ha,23800,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1991,1991,hg/ha,23361,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1992,1992,hg/ha,23182,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1993,1993,hg/ha,23003,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1994,1994,hg/ha,22824,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1995,1995,hg/ha,22644,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1996,1996,hg/ha,22448,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1997,1997,hg/ha,21765,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1998,1998,hg/ha,19354,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,1999,1999,hg/ha,21823,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,2000,2000,hg/ha,22002,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,2001,2001,hg/ha,21895,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,2002,2002,hg/ha,21789,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,2003,2003,hg/ha,21697,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,2004,2004,hg/ha,21620,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,2005,2005,hg/ha,21543,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,2006,2006,hg/ha,21466,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,2007,2007,hg/ha,21389,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,2008,2008,hg/ha,21312,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,2009,2009,hg/ha,21235,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,2010,2010,hg/ha,21158,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,2011,2011,hg/ha,21081,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,2012,2012,hg/ha,21004,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,2013,2013,hg/ha,20927,Fc,Calculated data
+QC,Crops,45,Comoros,5419,Yield,56,Maize,2014,2014,hg/ha,20850,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1981,1981,hg/ha,25000,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1982,1982,hg/ha,25000,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1983,1983,hg/ha,25000,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1984,1984,hg/ha,23333,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1985,1985,hg/ha,17500,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1986,1986,hg/ha,16667,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1987,1987,hg/ha,15000,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1988,1988,hg/ha,15385,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1989,1989,hg/ha,13333,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1990,1990,hg/ha,16667,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1991,1991,hg/ha,16413,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1992,1992,hg/ha,16453,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1993,1993,hg/ha,16500,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1994,1994,hg/ha,16556,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1995,1995,hg/ha,16667,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1996,1996,hg/ha,16816,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1997,1997,hg/ha,17032,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1998,1998,hg/ha,17248,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,1999,1999,hg/ha,17686,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,2000,2000,hg/ha,18333,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,2001,2001,hg/ha,17143,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,2002,2002,hg/ha,16667,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,2003,2003,hg/ha,16667,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,2004,2004,hg/ha,16571,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,2005,2005,hg/ha,15000,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,2006,2006,hg/ha,16667,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,2007,2007,hg/ha,17386,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,2008,2008,hg/ha,17816,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,2009,2009,hg/ha,18186,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,2010,2010,hg/ha,18509,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,2011,2011,hg/ha,18829,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,2012,2012,hg/ha,20000,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,2013,2013,hg/ha,20000,Fc,Calculated data
+QC,Crops,72,Djibouti,5419,Yield,56,Maize,2014,2014,hg/ha,19379,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,1993,1993,hg/ha,2308,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,1994,1994,hg/ha,7689,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,1995,1995,hg/ha,3366,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,1996,1996,hg/ha,3974,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,1997,1997,hg/ha,2495,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,1998,1998,hg/ha,7532,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,1999,1999,hg/ha,7920,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,2000,2000,hg/ha,2358,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,2001,2001,hg/ha,7851,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,2002,2002,hg/ha,2076,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,2003,2003,hg/ha,3335,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,2004,2004,hg/ha,2409,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,2005,2005,hg/ha,4906,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,2006,2006,hg/ha,9755,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,2007,2007,hg/ha,8321,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,2008,2008,hg/ha,2123,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,2009,2009,hg/ha,8689,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,2010,2010,hg/ha,7063,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,2011,2011,hg/ha,7152,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,2012,2012,hg/ha,7357,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,2013,2013,hg/ha,10000,Fc,Calculated data
+QC,Crops,178,Eritrea,5419,Yield,56,Maize,2014,2014,hg/ha,7685,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,1993,1993,hg/ha,17364,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,1994,1994,hg/ha,11235,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,1995,1995,hg/ha,13590,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,1996,1996,hg/ha,16826,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,1997,1997,hg/ha,17381,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,1998,1998,hg/ha,16175,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,1999,1999,hg/ha,17150,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,2000,2000,hg/ha,16204,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,2001,2001,hg/ha,17427,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,2002,2002,hg/ha,18753,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,2003,2003,hg/ha,15319,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,2004,2004,hg/ha,16132,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,2005,2005,hg/ha,20060,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,2006,2006,hg/ha,26404,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,2007,2007,hg/ha,19692,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,2008,2008,hg/ha,21367,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,2009,2009,hg/ha,21990,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,2010,2010,hg/ha,25398,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,2011,2011,hg/ha,29539,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,2012,2012,hg/ha,30592,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,2013,2013,hg/ha,32542,Fc,Calculated data
+QC,Crops,238,Ethiopia,5419,Yield,56,Maize,2014,2014,hg/ha,34210,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1961,1961,hg/ha,9629,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1962,1962,hg/ha,9610,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1963,1963,hg/ha,9000,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1964,1964,hg/ha,9700,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1965,1965,hg/ha,9850,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1966,1966,hg/ha,10000,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1967,1967,hg/ha,10078,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1968,1968,hg/ha,10297,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1969,1969,hg/ha,10510,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1970,1970,hg/ha,10731,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1971,1971,hg/ha,10873,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1972,1972,hg/ha,11002,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1973,1973,hg/ha,10200,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1974,1974,hg/ha,10000,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1975,1975,hg/ha,11225,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1976,1976,hg/ha,18705,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1977,1977,hg/ha,14092,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1978,1978,hg/ha,10938,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1979,1979,hg/ha,15079,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1980,1980,hg/ha,17502,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1981,1981,hg/ha,12973,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1982,1982,hg/ha,18385,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1983,1983,hg/ha,19556,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1984,1984,hg/ha,18674,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1985,1985,hg/ha,11491,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1986,1986,hg/ha,11979,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1987,1987,hg/ha,16801,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1988,1988,hg/ha,17932,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1989,1989,hg/ha,16538,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1990,1990,hg/ha,16087,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1991,1991,hg/ha,12214,Fc,Calculated data
+QC,Crops,62,Ethiopia PDR,5419,Yield,56,Maize,1992,1992,hg/ha,15275,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1961,1961,hg/ha,12533,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1962,1962,hg/ha,12222,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1963,1963,hg/ha,12500,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1964,1964,hg/ha,11714,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1965,1965,hg/ha,10713,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1966,1966,hg/ha,10792,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1967,1967,hg/ha,12000,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1968,1968,hg/ha,12536,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1969,1969,hg/ha,12741,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1970,1970,hg/ha,12250,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1971,1971,hg/ha,12174,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1972,1972,hg/ha,12538,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1973,1973,hg/ha,12897,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1974,1974,hg/ha,13448,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1975,1975,hg/ha,14138,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1976,1976,hg/ha,16352,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1977,1977,hg/ha,16261,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1978,1978,hg/ha,14557,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1979,1979,hg/ha,13000,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1980,1980,hg/ha,12000,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1981,1981,hg/ha,15786,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1982,1982,hg/ha,20712,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1983,1983,hg/ha,17692,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1984,1984,hg/ha,14437,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1985,1985,hg/ha,17222,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1986,1986,hg/ha,20343,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1987,1987,hg/ha,17169,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1988,1988,hg/ha,19030,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1989,1989,hg/ha,18526,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1990,1990,hg/ha,16591,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1991,1991,hg/ha,18321,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1992,1992,hg/ha,17271,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1993,1993,hg/ha,15549,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1994,1994,hg/ha,20400,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1995,1995,hg/ha,18759,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1996,1996,hg/ha,14506,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1997,1997,hg/ha,14713,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1998,1998,hg/ha,16697,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,1999,1999,hg/ha,14817,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,2000,2000,hg/ha,14400,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,2001,2001,hg/ha,17012,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,2002,2002,hg/ha,15126,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,2003,2003,hg/ha,16224,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,2004,2004,hg/ha,19293,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,2005,2005,hg/ha,16405,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,2006,2006,hg/ha,17197,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,2007,2007,hg/ha,18132,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,2008,2008,hg/ha,13925,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,2009,2009,hg/ha,12943,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,2010,2010,hg/ha,17251,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,2011,2011,hg/ha,15840,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,2012,2012,hg/ha,17366,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,2013,2013,hg/ha,16922,Fc,Calculated data
+QC,Crops,114,Kenya,5419,Yield,56,Maize,2014,2014,hg/ha,16602,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1961,1961,hg/ha,14800,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1962,1962,hg/ha,13000,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1963,1963,hg/ha,11400,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1964,1964,hg/ha,10418,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1965,1965,hg/ha,9525,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1966,1966,hg/ha,10532,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1967,1967,hg/ha,10667,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1968,1968,hg/ha,10263,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1969,1969,hg/ha,10322,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1970,1970,hg/ha,10237,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1971,1971,hg/ha,9528,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1972,1972,hg/ha,9831,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1973,1973,hg/ha,10187,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1974,1974,hg/ha,10460,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1975,1975,hg/ha,10959,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1976,1976,hg/ha,11880,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1977,1977,hg/ha,10569,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1978,1978,hg/ha,9434,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1979,1979,hg/ha,10039,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1980,1980,hg/ha,9975,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1981,1981,hg/ha,9460,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1982,1982,hg/ha,9697,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1983,1983,hg/ha,10459,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1984,1984,hg/ha,10674,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1985,1985,hg/ha,10014,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1986,1986,hg/ha,10330,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1987,1987,hg/ha,11295,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1988,1988,hg/ha,10289,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1989,1989,hg/ha,10600,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1990,1990,hg/ha,9848,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1991,1991,hg/ha,9667,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1992,1992,hg/ha,8125,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1993,1993,hg/ha,8972,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1994,1994,hg/ha,9451,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1995,1995,hg/ha,9628,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1996,1996,hg/ha,9299,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1997,1997,hg/ha,9368,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1998,1998,hg/ha,8306,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,1999,1999,hg/ha,9162,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,2000,2000,hg/ha,8838,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,2001,2001,hg/ha,9290,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,2002,2002,hg/ha,8845,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,2003,2003,hg/ha,16255,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,2004,2004,hg/ha,17779,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,2005,2005,hg/ha,15464,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,2006,2006,hg/ha,15891,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,2007,2007,hg/ha,16191,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,2008,2008,hg/ha,16569,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,2009,2009,hg/ha,16225,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,2010,2010,hg/ha,15577,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,2011,2011,hg/ha,15475,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,2012,2012,hg/ha,16742,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,2013,2013,hg/ha,16804,Fc,Calculated data
+QC,Crops,129,Madagascar,5419,Yield,56,Maize,2014,2014,hg/ha,17022,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1961,1961,hg/ha,10188,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1962,1962,hg/ha,10625,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1963,1963,hg/ha,8974,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1964,1964,hg/ha,11211,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1965,1965,hg/ha,8725,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1966,1966,hg/ha,9314,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1967,1967,hg/ha,14699,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1968,1968,hg/ha,10197,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1969,1969,hg/ha,9904,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1970,1970,hg/ha,9000,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1971,1971,hg/ha,11802,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1972,1972,hg/ha,11909,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1973,1973,hg/ha,11146,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1974,1974,hg/ha,11532,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1975,1975,hg/ha,10000,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1976,1976,hg/ha,10980,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1977,1977,hg/ha,13210,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1978,1978,hg/ha,12374,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1979,1979,hg/ha,11998,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1980,1980,hg/ha,12232,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1981,1981,hg/ha,11318,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1982,1982,hg/ha,11792,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1983,1983,hg/ha,11710,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1984,1984,hg/ha,11911,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1985,1985,hg/ha,11835,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1986,1986,hg/ha,10849,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1987,1987,hg/ha,10164,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1988,1988,hg/ha,11718,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1989,1989,hg/ha,11878,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1990,1990,hg/ha,9993,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1991,1991,hg/ha,11419,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1992,1992,hg/ha,4802,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1993,1993,hg/ha,15327,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1994,1994,hg/ha,9209,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1995,1995,hg/ha,13517,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1996,1996,hg/ha,14433,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1997,1997,hg/ha,10959,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1998,1998,hg/ha,13711,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,1999,1999,hg/ha,18109,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,2000,2000,hg/ha,17428,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,2001,2001,hg/ha,11845,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,2002,2002,hg/ha,10460,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,2003,2003,hg/ha,12259,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,2004,2004,hg/ha,10460,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,2005,2005,hg/ha,8093,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,2006,2006,hg/ha,14814,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,2007,2007,hg/ha,26547,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,2008,2008,hg/ha,16498,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,2009,2009,hg/ha,22265,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,2010,2010,hg/ha,20158,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,2011,2011,hg/ha,22079,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,2012,2012,hg/ha,21932,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,2013,2013,hg/ha,21708,Fc,Calculated data
+QC,Crops,130,Malawi,5419,Yield,56,Maize,2014,2014,hg/ha,16563,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1961,1961,hg/ha,15126,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1962,1962,hg/ha,17807,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1963,1963,hg/ha,12895,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1964,1964,hg/ha,10000,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1965,1965,hg/ha,16444,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1966,1966,hg/ha,25249,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1967,1967,hg/ha,17052,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1968,1968,hg/ha,21609,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1969,1969,hg/ha,18857,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1970,1970,hg/ha,20827,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1971,1971,hg/ha,19843,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1972,1972,hg/ha,18800,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1973,1973,hg/ha,20654,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1974,1974,hg/ha,24692,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1975,1975,hg/ha,22962,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1976,1976,hg/ha,25024,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1977,1977,hg/ha,24962,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1978,1978,hg/ha,22880,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1979,1979,hg/ha,25021,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1980,1980,hg/ha,22454,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1981,1981,hg/ha,24624,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1982,1982,hg/ha,25369,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1983,1983,hg/ha,28657,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1984,1984,hg/ha,43650,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1985,1985,hg/ha,47476,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1986,1986,hg/ha,43888,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1987,1987,hg/ha,35524,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1988,1988,hg/ha,38447,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1989,1989,hg/ha,37363,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1990,1990,hg/ha,41790,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1991,1991,hg/ha,37193,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1992,1992,hg/ha,44333,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1993,1993,hg/ha,42430,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1994,1994,hg/ha,37288,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1995,1995,hg/ha,38533,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1996,1996,hg/ha,48667,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1997,1997,hg/ha,50435,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1998,1998,hg/ha,51800,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,1999,1999,hg/ha,49024,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,2000,2000,hg/ha,89000,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,2001,2001,hg/ha,72037,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,2002,2002,hg/ha,77632,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,2003,2003,hg/ha,65556,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,2004,2004,hg/ha,64737,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,2005,2005,hg/ha,75397,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,2006,2006,hg/ha,77931,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,2007,2007,hg/ha,94537,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,2008,2008,hg/ha,75410,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,2009,2009,hg/ha,80000,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,2010,2010,hg/ha,68333,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,2011,2011,hg/ha,74419,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,2012,2012,hg/ha,71207,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,2013,2013,hg/ha,67957,Fc,Calculated data
+QC,Crops,137,Mauritius,5419,Yield,56,Maize,2014,2014,hg/ha,90580,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1961,1961,hg/ha,8706,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1962,1962,hg/ha,8250,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1963,1963,hg/ha,8875,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1964,1964,hg/ha,9000,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1965,1965,hg/ha,9286,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1966,1966,hg/ha,9565,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1967,1967,hg/ha,10000,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1968,1968,hg/ha,10000,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1969,1969,hg/ha,9535,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1970,1970,hg/ha,11310,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1971,1971,hg/ha,9394,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1972,1972,hg/ha,10238,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1973,1973,hg/ha,8088,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1974,1974,hg/ha,6618,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1975,1975,hg/ha,4167,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1976,1976,hg/ha,7500,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1977,1977,hg/ha,7167,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1978,1978,hg/ha,7000,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1979,1979,hg/ha,6446,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1980,1980,hg/ha,5429,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1981,1981,hg/ha,5286,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1982,1982,hg/ha,4375,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1983,1983,hg/ha,4125,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1984,1984,hg/ha,4375,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1985,1985,hg/ha,4444,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1986,1986,hg/ha,4590,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1987,1987,hg/ha,2710,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1988,1988,hg/ha,3220,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1989,1989,hg/ha,3300,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1990,1990,hg/ha,4480,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1991,1991,hg/ha,3241,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1992,1992,hg/ha,1587,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1993,1993,hg/ha,6332,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1994,1994,hg/ha,5207,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1995,1995,hg/ha,6794,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1996,1996,hg/ha,9395,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1997,1997,hg/ha,9033,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1998,1998,hg/ha,9006,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,1999,1999,hg/ha,11596,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,2000,2000,hg/ha,9399,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,2001,2001,hg/ha,9580,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,2002,2002,hg/ha,7066,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,2003,2003,hg/ha,8693,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,2004,2004,hg/ha,8085,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,2005,2005,hg/ha,5086,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,2006,2006,hg/ha,8521,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,2007,2007,hg/ha,9505,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,2008,2008,hg/ha,8539,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,2009,2009,hg/ha,10000,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,2010,2010,hg/ha,12024,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,2011,2011,hg/ha,12020,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,2012,2012,hg/ha,7490,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,2013,2013,hg/ha,7506,Fc,Calculated data
+QC,Crops,144,Mozambique,5419,Yield,56,Maize,2014,2014,hg/ha,7967,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1961,1961,hg/ha,39474,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1962,1962,hg/ha,39474,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1963,1963,hg/ha,39474,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1964,1964,hg/ha,39474,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1965,1965,hg/ha,39474,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1966,1966,hg/ha,41860,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1967,1967,hg/ha,36667,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1968,1968,hg/ha,33333,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1969,1969,hg/ha,35200,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1970,1970,hg/ha,32000,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1971,1971,hg/ha,39286,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1972,1972,hg/ha,41071,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1973,1973,hg/ha,39844,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1974,1974,hg/ha,44155,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1975,1975,hg/ha,42626,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1976,1976,hg/ha,53935,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1977,1977,hg/ha,62924,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1978,1978,hg/ha,53935,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1979,1979,hg/ha,54000,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1980,1980,hg/ha,42808,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1981,1981,hg/ha,55102,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1982,1982,hg/ha,55102,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1983,1983,hg/ha,41763,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1984,1984,hg/ha,45200,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1985,1985,hg/ha,44729,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1986,1986,hg/ha,46207,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1987,1987,hg/ha,45652,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1988,1988,hg/ha,45048,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1989,1989,hg/ha,65000,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1990,1990,hg/ha,43458,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1991,1991,hg/ha,60318,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1992,1992,hg/ha,60385,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1993,1993,hg/ha,59780,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1994,1994,hg/ha,61852,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1995,1995,hg/ha,76959,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1996,1996,hg/ha,77001,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1997,1997,hg/ha,78000,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1998,1998,hg/ha,76354,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,1999,1999,hg/ha,76536,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,2000,2000,hg/ha,76692,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,2001,2001,hg/ha,77419,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,2002,2002,hg/ha,76827,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,2003,2003,hg/ha,76929,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,2004,2004,hg/ha,76471,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,2005,2005,hg/ha,77713,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,2006,2006,hg/ha,78947,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,2007,2007,hg/ha,79600,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,2008,2008,hg/ha,78333,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,2009,2009,hg/ha,74667,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,2010,2010,hg/ha,76255,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,2011,2011,hg/ha,79273,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,2012,2012,hg/ha,78842,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,2013,2013,hg/ha,79018,Fc,Calculated data
+QC,Crops,182,Réunion,5419,Yield,56,Maize,2014,2014,hg/ha,79194,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1961,1961,hg/ha,7483,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1962,1962,hg/ha,11755,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1963,1963,hg/ha,20000,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1964,1964,hg/ha,8826,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1965,1965,hg/ha,19000,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1966,1966,hg/ha,10000,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1967,1967,hg/ha,10000,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1968,1968,hg/ha,10000,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1969,1969,hg/ha,10000,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1970,1970,hg/ha,12000,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1971,1971,hg/ha,10348,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1972,1972,hg/ha,10000,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1973,1973,hg/ha,9907,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1974,1974,hg/ha,10181,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1975,1975,hg/ha,10751,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1976,1976,hg/ha,10798,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1977,1977,hg/ha,11018,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1978,1978,hg/ha,11210,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1979,1979,hg/ha,10719,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1980,1980,hg/ha,11847,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1981,1981,hg/ha,12328,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1982,1982,hg/ha,11606,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1983,1983,hg/ha,12916,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1984,1984,hg/ha,11988,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1985,1985,hg/ha,12182,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1986,1986,hg/ha,11305,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1987,1987,hg/ha,14839,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1988,1988,hg/ha,18000,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1989,1989,hg/ha,11875,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1990,1990,hg/ha,10252,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1991,1991,hg/ha,11556,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1992,1992,hg/ha,12250,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1993,1993,hg/ha,17400,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1994,1994,hg/ha,16750,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1995,1995,hg/ha,11200,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1996,1996,hg/ha,11099,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1997,1997,hg/ha,10908,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1998,1998,hg/ha,8231,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,1999,1999,hg/ha,7556,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,2000,2000,hg/ha,7018,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,2001,2001,hg/ha,7671,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,2002,2002,hg/ha,8763,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,2003,2003,hg/ha,7672,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,2004,2004,hg/ha,7670,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,2005,2005,hg/ha,8889,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,2006,2006,hg/ha,8531,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,2007,2007,hg/ha,7201,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,2008,2008,hg/ha,11515,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,2009,2009,hg/ha,19503,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,2010,2010,hg/ha,23416,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,2011,2011,hg/ha,23529,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,2012,2012,hg/ha,22587,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,2013,2013,hg/ha,22845,Fc,Calculated data
+QC,Crops,184,Rwanda,5419,Yield,56,Maize,2014,2014,hg/ha,25009,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1961,1961,hg/ha,8696,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1962,1962,hg/ha,8667,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1963,1963,hg/ha,8647,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1964,1964,hg/ha,8661,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1965,1965,hg/ha,8661,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1966,1966,hg/ha,8607,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1967,1967,hg/ha,8333,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1968,1968,hg/ha,8148,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1969,1969,hg/ha,8248,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1970,1970,hg/ha,9143,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1971,1971,hg/ha,9712,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1972,1972,hg/ha,9792,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1973,1973,hg/ha,9759,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1974,1974,hg/ha,9758,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1975,1975,hg/ha,9792,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1976,1976,hg/ha,9042,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1977,1977,hg/ha,7390,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1978,1978,hg/ha,7243,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1979,1979,hg/ha,7336,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1980,1980,hg/ha,10092,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1981,1981,hg/ha,7208,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1982,1982,hg/ha,7172,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1983,1983,hg/ha,10782,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1984,1984,hg/ha,12277,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1985,1985,hg/ha,11950,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1986,1986,hg/ha,13717,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1987,1987,hg/ha,11029,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1988,1988,hg/ha,12564,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1989,1989,hg/ha,11287,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1990,1990,hg/ha,11455,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1991,1991,hg/ha,10000,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1992,1992,hg/ha,9378,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1993,1993,hg/ha,9875,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1994,1994,hg/ha,4149,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1995,1995,hg/ha,8304,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1996,1996,hg/ha,6202,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1997,1997,hg/ha,7095,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1998,1998,hg/ha,5727,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,1999,1999,hg/ha,7118,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,2000,2000,hg/ha,14597,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,2001,2001,hg/ha,14274,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,2002,2002,hg/ha,14274,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,2003,2003,hg/ha,13626,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,2004,2004,hg/ha,10944,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,2005,2005,hg/ha,11765,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,2006,2006,hg/ha,10526,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,2007,2007,hg/ha,11111,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,2008,2008,hg/ha,11765,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,2009,2009,hg/ha,15299,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,2010,2010,hg/ha,15098,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,2011,2011,hg/ha,17901,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,2012,2012,hg/ha,17662,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,2013,2013,hg/ha,12100,Fc,Calculated data
+QC,Crops,201,Somalia,5419,Yield,56,Maize,2014,2014,hg/ha,16023,Fc,Calculated data
+QC,Crops,277,South Sudan,5419,Yield,56,Maize,2012,2012,hg/ha,4615,Fc,Calculated data
+QC,Crops,277,South Sudan,5419,Yield,56,Maize,2013,2013,hg/ha,5311,Fc,Calculated data
+QC,Crops,277,South Sudan,5419,Yield,56,Maize,2014,2014,hg/ha,9640,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1961,1961,hg/ha,10983,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1962,1962,hg/ha,11118,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1963,1963,hg/ha,12531,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1964,1964,hg/ha,11399,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1965,1965,hg/ha,9507,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1966,1966,hg/ha,8922,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1967,1967,hg/ha,8364,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1968,1968,hg/ha,12432,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1969,1969,hg/ha,12743,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1970,1970,hg/ha,12933,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1971,1971,hg/ha,15036,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1972,1972,hg/ha,12048,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1973,1973,hg/ha,13344,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1974,1974,hg/ha,11082,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1975,1975,hg/ha,11990,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1976,1976,hg/ha,12802,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1977,1977,hg/ha,13184,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1978,1978,hg/ha,13200,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1979,1979,hg/ha,16654,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1980,1980,hg/ha,11085,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1981,1981,hg/ha,13154,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1982,1982,hg/ha,13789,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1983,1983,hg/ha,14000,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1984,1984,hg/ha,9741,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1985,1985,hg/ha,12266,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1986,1986,hg/ha,10001,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1987,1987,hg/ha,11629,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1988,1988,hg/ha,12754,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1989,1989,hg/ha,14500,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1990,1990,hg/ha,15012,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1991,1991,hg/ha,13500,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1992,1992,hg/ha,15000,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1993,1993,hg/ha,15984,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1994,1994,hg/ha,15098,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1995,1995,hg/ha,15989,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1996,1996,hg/ha,12997,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1997,1997,hg/ha,12375,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1998,1998,hg/ha,15000,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,1999,1999,hg/ha,17319,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,2000,2000,hg/ha,17424,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,2001,2001,hg/ha,18006,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,2002,2002,hg/ha,18003,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,2003,2003,hg/ha,18310,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,2004,2004,hg/ha,14400,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,2005,2005,hg/ha,15859,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,2006,2006,hg/ha,15361,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,2007,2007,hg/ha,14950,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,2008,2008,hg/ha,26855,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,2009,2009,hg/ha,24996,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,2010,2010,hg/ha,22999,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,2011,2011,hg/ha,23998,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,2012,2012,hg/ha,24991,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,2013,2013,hg/ha,24959,Fc,Calculated data
+QC,Crops,226,Uganda,5419,Yield,56,Maize,2014,2014,hg/ha,25005,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1961,1961,hg/ha,7468,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1962,1962,hg/ha,7500,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1963,1963,hg/ha,8854,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1964,1964,hg/ha,7742,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1965,1965,hg/ha,7905,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1966,1966,hg/ha,8000,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1967,1967,hg/ha,7500,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1968,1968,hg/ha,5434,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1969,1969,hg/ha,6292,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1970,1970,hg/ha,4808,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1971,1971,hg/ha,7300,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1972,1972,hg/ha,6210,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1973,1973,hg/ha,8870,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1974,1974,hg/ha,6918,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1975,1975,hg/ha,12427,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1976,1976,hg/ha,11146,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1977,1977,hg/ha,12800,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1978,1978,hg/ha,11269,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1979,1979,hg/ha,13231,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1980,1980,hg/ha,12329,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1981,1981,hg/ha,13622,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1982,1982,hg/ha,13430,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1983,1983,hg/ha,13427,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1984,1984,hg/ha,13734,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1985,1985,hg/ha,13278,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1986,1986,hg/ha,11606,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1987,1987,hg/ha,13683,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1988,1988,hg/ha,12643,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1989,1989,hg/ha,15798,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1990,1990,hg/ha,14988,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1991,1991,hg/ha,12616,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1992,1992,hg/ha,11668,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1993,1993,hg/ha,12512,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1994,1994,hg/ha,12351,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1995,1995,hg/ha,21012,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1996,1996,hg/ha,17861,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1997,1997,hg/ha,11708,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1998,1998,hg/ha,12857,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,1999,1999,hg/ha,25283,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,2000,2000,hg/ha,19314,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,2001,2001,hg/ha,31359,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,2002,2002,hg/ha,25657,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,2003,2003,hg/ha,7549,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,2004,2004,hg/ha,14659,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,2005,2005,hg/ha,10071,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,2006,2006,hg/ha,13318,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,2007,2007,hg/ha,14071,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,2008,2008,hg/ha,13667,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,2009,2009,hg/ha,11232,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,2010,2010,hg/ha,15515,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,2011,2011,hg/ha,13203,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,2012,2012,hg/ha,12395,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,2013,2013,hg/ha,13000,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,56,Maize,2014,2014,hg/ha,16250,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1961,1961,hg/ha,8800,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1962,1962,hg/ha,8533,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1963,1963,hg/ha,7403,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1964,1964,hg/ha,8354,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1965,1965,hg/ha,8750,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1966,1966,hg/ha,9390,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1967,1967,hg/ha,9277,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1968,1968,hg/ha,8235,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1969,1969,hg/ha,8046,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1970,1970,hg/ha,6333,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1971,1971,hg/ha,9212,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1972,1972,hg/ha,11433,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1973,1973,hg/ha,8915,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1974,1974,hg/ha,10272,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1975,1975,hg/ha,14541,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1976,1976,hg/ha,14927,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1977,1977,hg/ha,16925,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1978,1978,hg/ha,17049,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1979,1979,hg/ha,16880,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1980,1980,hg/ha,16875,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1981,1981,hg/ha,20399,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1982,1982,hg/ha,16507,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1983,1983,hg/ha,17108,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1984,1984,hg/ha,17211,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1985,1985,hg/ha,19289,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1986,1986,hg/ha,20911,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1987,1987,hg/ha,17447,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1988,1988,hg/ha,26874,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1989,1989,hg/ha,18078,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1990,1990,hg/ha,14316,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1991,1991,hg/ha,17140,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1992,1992,hg/ha,7311,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1993,1993,hg/ha,25228,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1994,1994,hg/ha,15025,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1995,1995,hg/ha,14185,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1996,1996,hg/ha,20864,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1997,1997,hg/ha,14794,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1998,1998,hg/ha,12503,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,1999,1999,hg/ha,13759,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,2000,2000,hg/ha,17720,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,2001,2001,hg/ha,13780,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,2002,2002,hg/ha,14097,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,2003,2003,hg/ha,17256,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,2004,2004,hg/ha,19239,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,2005,2005,hg/ha,18594,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,2006,2006,hg/ha,18992,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,2007,2007,hg/ha,23342,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,2008,2008,hg/ha,22442,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,2009,2009,hg/ha,20692,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,2010,2010,hg/ha,25871,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,2011,2011,hg/ha,27414,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,2012,2012,hg/ha,26545,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,2013,2013,hg/ha,25382,Fc,Calculated data
+QC,Crops,251,Zambia,5419,Yield,56,Maize,2014,2014,hg/ha,27802,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1961,1961,hg/ha,11929,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1962,1962,hg/ha,11175,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1963,1963,hg/ha,9600,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1964,1964,hg/ha,9547,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1965,1965,hg/ha,10960,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1966,1966,hg/ha,11370,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1967,1967,hg/ha,17743,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1968,1968,hg/ha,13236,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1969,1969,hg/ha,17639,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1970,1970,hg/ha,12022,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1971,1971,hg/ha,19011,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1972,1972,hg/ha,23110,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1973,1973,hg/ha,12088,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1974,1974,hg/ha,20311,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1975,1975,hg/ha,17575,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1976,1976,hg/ha,18065,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1977,1977,hg/ha,18665,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1978,1978,hg/ha,16732,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1979,1979,hg/ha,14284,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1980,1980,hg/ha,13396,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1981,1981,hg/ha,20781,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1982,1982,hg/ha,12767,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1983,1983,hg/ha,6821,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1984,1984,hg/ha,8326,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1985,1985,hg/ha,21637,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1986,1986,hg/ha,19373,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1987,1987,hg/ha,9173,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1988,1988,hg/ha,18066,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1989,1989,hg/ha,17079,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1990,1990,hg/ha,17206,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1991,1991,hg/ha,14400,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1992,1992,hg/ha,4108,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1993,1993,hg/ha,16251,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1994,1994,hg/ha,16601,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1995,1995,hg/ha,5960,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1996,1996,hg/ha,16997,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1997,1997,hg/ha,13366,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1998,1998,hg/ha,11585,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,1999,1999,hg/ha,10509,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,2000,2000,hg/ha,14880,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,2001,2001,hg/ha,11992,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,2002,2002,hg/ha,4556,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,2003,2003,hg/ha,7833,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,2004,2004,hg/ha,11288,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,2005,2005,hg/ha,5292,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,2006,2006,hg/ha,8668,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,2007,2007,hg/ha,8034,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,2008,2008,hg/ha,2867,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,2009,2009,hg/ha,4642,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,2010,2010,hg/ha,8751,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,2011,2011,hg/ha,6568,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,2012,2012,hg/ha,7799,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,2013,2013,hg/ha,7362,Fc,Calculated data
+QC,Crops,181,Zimbabwe,5419,Yield,56,Maize,2014,2014,hg/ha,6375,Fc,Calculated data

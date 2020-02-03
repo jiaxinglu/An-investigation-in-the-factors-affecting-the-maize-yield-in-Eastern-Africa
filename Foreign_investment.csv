@@ -1,0 +1,60 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+FDI,Foreign Direct Investment (FDI),238,Ethiopia,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",1994,1994,millions,0.1,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),238,Ethiopia,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",1995,1995,millions,0.1,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),238,Ethiopia,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",1996,1996,millions,0.1,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),238,Ethiopia,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",1998,1998,millions,0,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),238,Ethiopia,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",1999,1999,millions,4.1,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),238,Ethiopia,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2000,2000,millions,14.5,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),129,Madagascar,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2005,2005,millions,12.3,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),129,Madagascar,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2006,2006,millions,3.7,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),129,Madagascar,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2007,2007,millions,-16.5,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),129,Madagascar,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2008,2008,millions,4.1,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),129,Madagascar,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2009,2009,millions,17.2,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),129,Madagascar,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2010,2010,millions,16.1,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),130,Malawi,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2002,2002,millions,1,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),130,Malawi,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2003,2003,millions,11.7,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),130,Malawi,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2005,2005,millions,0.3,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),130,Malawi,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2006,2006,millions,0.3,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),130,Malawi,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2007,2007,millions,30.2,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),130,Malawi,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2008,2008,millions,19.8,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),130,Malawi,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2010,2010,millions,11.7,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),130,Malawi,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2011,2011,millions,21.7,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),137,Mauritius,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2001,2001,millions,0.5,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),137,Mauritius,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2003,2003,millions,0,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),137,Mauritius,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2004,2004,millions,17.6,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),137,Mauritius,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2005,2005,millions,0.6,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),137,Mauritius,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2006,2006,millions,0.8,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),137,Mauritius,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2007,2007,millions,0.6,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),137,Mauritius,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2008,2008,millions,15.7,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),144,Mozambique,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2001,2001,millions,6,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),144,Mozambique,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2002,2002,millions,29.2,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),144,Mozambique,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2003,2003,millions,24.8,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),144,Mozambique,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2004,2004,millions,8.6,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),144,Mozambique,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2005,2005,millions,26.7,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),144,Mozambique,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2006,2006,millions,-9.3,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),144,Mozambique,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2007,2007,millions,45.3,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),144,Mozambique,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2008,2008,millions,97.4,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),144,Mozambique,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2009,2009,millions,137.9,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),144,Mozambique,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2010,2010,millions,26.1,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),226,Uganda,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2004,2004,millions,55.2,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),226,Uganda,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2005,2005,millions,56.6,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),226,Uganda,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2006,2006,millions,81.2,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),226,Uganda,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2007,2007,millions,44.4,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),226,Uganda,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2008,2008,millions,48,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),226,Uganda,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2009,2009,millions,75.6,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),226,Uganda,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2010,2010,millions,110,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),226,Uganda,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2011,2011,millions,79,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),215,United Republic of Tanzania,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",1999,1999,millions,23.6,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),215,United Republic of Tanzania,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2000,2000,millions,47.6,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),215,United Republic of Tanzania,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2001,2001,millions,34.1,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),215,United Republic of Tanzania,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2002,2002,millions,6,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),215,United Republic of Tanzania,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2003,2003,millions,15.8,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),215,United Republic of Tanzania,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2004,2004,millions,10.6,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),215,United Republic of Tanzania,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2005,2005,millions,11.9,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),215,United Republic of Tanzania,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2006,2006,millions,12.4,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),215,United Republic of Tanzania,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2007,2007,millions,10.9,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),215,United Republic of Tanzania,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2008,2008,millions,11.5,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),251,Zambia,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",1993,1993,millions,78.1,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),251,Zambia,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",1994,1994,millions,54.3,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),251,Zambia,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",1995,1995,millions,51.3,XUI,Data from UNCTAD and INTRACEN
+FDI,Foreign Direct Investment (FDI),251,Zambia,6110,Value US$,23080,"FDI inflows to Agriculture, Forestry and Fishing",2007,2007,millions,3.8,XUI,Data from UNCTAD and INTRACEN
